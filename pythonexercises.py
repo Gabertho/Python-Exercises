@@ -12,7 +12,7 @@ y = float(input('Digite a coordenada y do ponto:'))
 formula = (x*x)+(y*y)
 formula1 = formula**0.5
 print(f'A distância das coordenadas ({x},{y}) da origem (0,0) é {formula1} unidades de distância.')
-A fórmula da distância entre dois pontos é a raíz da diferença entre x1 e x2 elevado ao quadrado somado à diferença entre y1 e y2 elevado ao quadrado.
+#A fórmula da distância entre dois pontos é a raíz da diferença entre x1 e x2 elevado ao quadrado somado à diferença entre y1 e y2 elevado ao quadrado.
 
 #Exercício 3: Faça um programa que que leia um número inteiro de 4 dígitos e imprima 1 dígito por linha.
 a = input('Digite um número inteiro de 4 dígitos,ou seja,entre 1000 e 9999:')
